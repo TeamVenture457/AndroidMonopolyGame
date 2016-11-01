@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMonopolyGame</string>
+    <string name="title_activity_gameplay_screen">GameplayScreen</string>
+    <string name="title_activity_select_property">SelectProperty</string>
+</resources>
